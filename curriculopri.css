@@ -1,0 +1,82 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+widht: 80%;
+margin: 30px;
+color: rgb(0, 0, 0);
+margin-bottom: 56px;
+font-size: 16px;
+
+
+}
+
+h1{
+    background-color: #b2adfd9d;
+    color:#18153a9d;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 0px;
+
+}
+
+.img-curriculo{
+    width:165px;
+    
+   
+}
+
+h2{
+    color:#18153a9d;
+    background-color: rgba(169, 169, 169, 0.349);
+    font-size: 30px;
+    border-bottom: 3px solid;
+    padding: 10px;
+    margin-top: 48px;
+    margin-bottom: 12px;
+}
+
+ul{
+    padding-left: 25px;
+}
+
+.center{
+    text-align: center;
+    font-size: 17px;
+}
+
+.subtitle{
+    margin-top: 0px;
+    background-color: #dddbff96;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.menu{
+    
+    text-align: left;
+}
+
+.menu li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px;
+
+}
+
+.menu a{
+    background-color: #b2adfd9d;
+    padding: 18px;
+    display: block;
+
+}
+
+.menu a:hover {
+    background-color: #18153a9d;
+    color: white;
+    text-decoration: none;
+}
